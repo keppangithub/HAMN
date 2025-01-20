@@ -1,7 +1,10 @@
 # HAMN
-Generic Web Shop
 
-Start using
+
+# Mac OS
 ./gradlew clear
 ./gradlew build
 ./gradlew bootRun
+
+# Windows
+$ .\gradlew.bat build
