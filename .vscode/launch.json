@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootReactApplication<HAMN>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.springbootreact.SpringBootReactApplication",
+            "projectName": "HAMN",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
